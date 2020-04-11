@@ -1,7 +1,7 @@
 # site settings
 title: Paulina Colmenares
 subtitle: Choreography
-email: youremailaddress@gmail.com
+email: acolmena@ucsd.edu
 description: I'm a Mexico-based choreographer<br /> with an MFA from UC San Diego.
 baseurl: "/portfolio" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
