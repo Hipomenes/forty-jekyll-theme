@@ -27,8 +27,8 @@ nav-menu: true
 		<p>University of California San Diego, CA. Thesis: An Object, Screaming. Thesis Comittee: Lima Clancy (Director), Eric Geiger, Yolande Snaith
 </p>
 	</div>
-</div>
-
+	<!-- Break -->
+	<div class="4u 12u$(medium)">
 <h2 id="content">Professional Certifications</h2>
 
 	<div class="4u 12u$(medium)">
