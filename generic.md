@@ -2,7 +2,7 @@
 layout: page
 title: Education
 description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+image: assets/images/ww.jpg
 nav-menu: true
 ---
 
@@ -13,7 +13,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Formacion</h1>
+			<h1>Education</h1>
 		</header>
 
 
