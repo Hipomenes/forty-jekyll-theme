@@ -16,7 +16,6 @@ nav-menu: true
 			<h1>Education</h1>
 		</header>
 
-
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>2005. BA in Dance</h3>
@@ -30,7 +29,7 @@ nav-menu: true
 	</div>
 </div>
 
-<h2 id="content">Sample Content</h2>
+<h2 id="content">Professional Certifications</h2>
 
 	<div class="4u 12u$(medium)">
 		<h3>Interdum sapien gravida</h3>
