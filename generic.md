@@ -1,12 +1,13 @@
 ---
-layout: post
+layout: page
 title: Education
 description: Lorem ipsum dolor est
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
 
-<div class="6u 12u$(small)">
+<div class="row">
+	<div class="6u 12u$(small)">
 		<h3>2005. BA in Dance</h3>
 		<p>Universidad de las Américas; Puebla, México Thesis:  Interrupción. Mentors: Sunny Savoy, Pedro Beiro, Rip Parker, Ray Schwartz
 </p>
