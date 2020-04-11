@@ -2,15 +2,15 @@
 title: Paulina Colmenares
 subtitle: Choreography
 email: youremailaddress@gmail.com
-description: I'm a Mexico-based choreographer Up<br /> with an MFA from UC San Diego.
+description: I'm a Mexico-based choreographer<br /> with an MFA from UC San Diego.
 baseurl: "/portfolio" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
+street_address: Santa Catarina Martir s/n
+city: Cholula 
+state: Pue
 zip_code: 55555
-country: United States of America
+country: México
 phone: (716) 555-5555
 
 # homepage tiles
