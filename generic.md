@@ -36,18 +36,38 @@ nav-menu: true
 <div class="row">
 	<div class="4u 12u$(medium)">
 		<h3>Limon-Humphrey Technique</h3>
-		<p>Professional Training, Jose Limon Institute, New York, 2009.</p>
+		<p>Professional Training, Jose Limon Institute, New York, USA. 2009.</p>
 	</div>
 	<div class="4u 12u$(medium)">
 		<h3>Prenatal Yoga</h3>
-		<p> Certification, Baby Bliss Sidney, Australia.</p>
+		<p> Certification, Baby Bliss Sidney, Australia. 2015.</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3>Hatha Yoga</h3>
-		<p>Certification, ATMADEV, Puebla, México.</p>
+		<p>Certification, ATMADEV, Puebla, México. 2010.</p>
 	</div>
 </div>
 
 <hr class="major" />
+
+<h2>Aditional Training</h2>
+<dl>
+	<dt>Making Work Workshop with Miguel Gutierrez</dt>
+	<dd>
+		<p>Movement Research MELT, New York, USA. 2019.</p>
+	</dd>
+	<dt>Improvisation and Performance with Neil Greenberg</dt>
+	<dd>
+		<p>Movement Research MELT, New York, USA. 2019.</p>
+	</dd>
+	<dt>Summer Intensive with Doug Varone and Dancers</dt>
+	<dd>
+		<p>Akron, Ohio, USA. 2010</p>
+	</dd>
+	<dt>The Multidisciplinary Creative Process</dt>
+	<dd>
+		<p>Diploma. Program for Choreographers and Composers), Centro de Producción Coreográfica, Cuernavaca, México.</p>
+
+</dl>
 
 
