@@ -33,8 +33,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Certifications</h2>
 		</header>
-
-	<!-- Break -->
+<div class="row">
 	<div class="4u 12u$(medium)">
 		<h3>Interdum sapien gravida</h3>
 		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
