@@ -52,6 +52,8 @@ nav-menu: true
 
 <h2>Aditional Training</h2>
 <dl>
+<div class="row">
+	
 	<dt>Making Work Workshop with Miguel Gutierrez</dt>
 	<dd>
 		<p>Movement Research MELT, New York, USA. 2019.</p>
